@@ -6,6 +6,7 @@ The application requests Gmail read-only permission. It does not send, delete, a
 
 Email text is processed by Google's Gemini Developer API Free Tier to generate summaries. GitHub Actions runs the application, and Telegram delivers the summaries.
 
-[Privacy policy](privacy.md) · [Terms of use](terms.md)
+[Privacy policy](privacy.html) · [Terms of use](terms.html)
 
 This website contains application information only. The application source code, credentials, messages and delivery state are private.
+

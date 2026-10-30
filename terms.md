@@ -8,4 +8,5 @@ Summaries are generated automatically and may omit or misinterpret details. Cons
 
 The application does not promise uninterrupted delivery or permanently available third-party free quotas. It has no paid API fallback. Use of Gmail, GitHub, Gemini and Telegram remains subject to each provider's terms.
 
-[Privacy policy](privacy.md) · [Home](index.md)
+[Privacy policy](privacy.html) · [Home](./)
+

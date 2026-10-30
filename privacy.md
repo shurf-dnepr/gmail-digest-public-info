@@ -23,3 +23,4 @@ Credentials are stored in GitHub Actions secrets. Delivery checkpoints and encry
 The owner can stop scheduled runs, remove stored credentials, and revoke the application's access through Google Account permissions. Revocation prevents further Gmail reads but does not erase previously delivered Telegram messages, repository history or data retained by service providers. Those records must be managed separately with each provider.
 
 This is a personal-use application with no public sign-up. For support, use the developer contact shown on the Google authorization screen.
+
